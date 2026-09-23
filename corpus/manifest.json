@@ -5,5 +5,13 @@
   "sha256": "94e0639433bbd76e5934230e74db39591c9f5bf132c7be7e72e5d5417a1ad0e4",
   "url": "https://giuseppe1090.github.io/foliotcg-site/corpus/device-corpus-v1788819688.bin",
   "formatVersion": 1,
-  "hashVersion": 2
+  "hashVersion": 2,
+  "collectorIndex": {
+    "version": 1790193448,
+    "generatedAt": "2026-09-23T19:57:28Z",
+    "byteSize": 7422863,
+    "sha256": "baeb73cc242e965b2c0f81c6985e5f317b843e5a1c695a665c076934d83d9b4e",
+    "url": "https://giuseppe1090.github.io/foliotcg-site/corpus/collector-index-v1790193448.bin",
+    "formatVersion": 2
+  }
 }
